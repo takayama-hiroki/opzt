@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+.detail_wrapper {
+  background-color: #F5F7FA;
+  width: 80%;
+  margin: 0 auto;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.post_contain {
+  padding: 32px;
+  width: 100%;
+  box-shadow: none;
+  padding-bottom: 0;
+}
+
+.border {
+  padding-top: 32px;
+  border-bottom: 5px solid #fff;
+}
+
+.post_contain:hover {
+  transform: none;
+}

@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+.content {
+  margin-top: 32px;
+  padding: 32px;
+  background-color: #fff;
+  box-shadow: 2px 2px 5px rgba(0,0,0,0.2);
+}
+
+.view_form th {
+  font-weight: bold;
+}
+
+.area {
+  flex-wrap: wrap;
+  display: flex;
+}
+
+.tab_class {
+  margin: 16px 32px 16px 0;
+  text-align: center;
+  display: block;
+  float: left;
+  order: -1;
+  color: gray;
+}
+
+table {
+  width: 100%;
+  border-collapse:separate;
+  border-spacing:10px 0;
+}
+
+input {
+  width: 100%;
+}
+
+.tab_wrapper {
+  display: flex;
+  margin-bottom: 24px;
+}
+
+.tab1 {
+  margin-right: 24px;
+}
